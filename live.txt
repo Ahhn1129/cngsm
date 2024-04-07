@@ -275,6 +275,7 @@ CCTV16-4K,https://cdn2.jdshipin.com/api/bst2.php?id=cctv16hd4k/15000000
 
 ▶️┃卫视,#genre#
 
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
 安徽卫视,https://cdn2.jdshipin.com/api/bst2.php?id=ahwshd8m/8000000
 安徽卫视,http://221.232.105.110:8880/udp/239.69.1.70:10060
@@ -294,7 +295,7 @@ CCTV16-4K,https://cdn2.jdshipin.com/api/bst2.php?id=cctv16hd4k/15000000
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw198496833_-887574231/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1674380313&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+
 
 湖南卫视,https://cdn2.jdshipin.com/api/bst2.php?id=hunanwshd8m/8000000
 湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
