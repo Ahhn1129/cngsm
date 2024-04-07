@@ -1,3 +1,5 @@
+
+
 ▶️┃央视,#genre#
 
 CCTV-1 综合,http://171.223.215.229:4000/udp/239.93.0.184:5140
@@ -33,9 +35,9 @@ CCTV怀旧剧场,http://110.178.52.190:8085/udp/239.1.1.95:8095
 CCTV兵器科技,http://110.178.52.190:8085/udp/239.1.1.97:8097
 CCTV世界地理,http://110.178.52.190:8085/udp/239.1.1.99:8099
 CCTV央视文化精品,http://110.178.52.190:8085/udp/239.1.1.91:8091
-CCTV-1,https://cdn2.jdshipin.com/api/bst2.php?id=cctv1hd8m/8000000
-CCTV-2,https://cdn2.jdshipin.com/api/bst2.php?id=cctv2hd8m/8000000
-CCTV-3,https://cdn2.jdshipin.com/api/bst2.php?id=cctv38m/8000000
+CCTV-1 综合,https://cdn2.jdshipin.com/api/bst2.php?id=cctv1hd8m/8000000
+CCTV-2 财经,https://cdn2.jdshipin.com/api/bst2.php?id=cctv2hd8m/8000000
+CCTV-3 综艺,https://cdn2.jdshipin.com/api/bst2.php?id=cctv38m/8000000
 CCTV-4,https://cdn2.jdshipin.com/api/bst2.php?id=cctv4hd8m/8000000
 CCTV-5,https://cdn2.jdshipin.com/api/bst2.php?id=cctv58m/8000000
 CCTV-5+,https://cdn2.jdshipin.com/api/bst2.php?id=cctv5phd8m/8000000
@@ -54,9 +56,9 @@ CCTV-17,https://cdn2.jdshipin.com/api/bst2.php?id=cctv17hd8m/8000000
 
 CETV-1中教,https://cdn2.jdshipin.com/api/bst2.php?id=zgjy1t8m/8000000
 CETV-4中教,https://cdn2.jdshipin.com/api/bst2.php?id=zgjy4hd8m/8000000
-CCTV-1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-CCTV-2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-CCTV-3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+CCTV-1 综合,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
+CCTV-2 财经,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+CCTV-3 综艺,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
 CCTV-4,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 CCTV-5,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
 CCTV-5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
@@ -77,9 +79,9 @@ CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 CETV-1中教,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
 CETV-4中教,https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
 CCTV4K,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
-CCTV1,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
-CCTV2,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8
-CCTV3,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_CCTV-3-CQ/G_CCTV-3-CQ.m3u8
+CCTV-1 综合,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
+CCTV-2 财经,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8
+CCTV-3 综艺,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_CCTV-3-CQ/G_CCTV-3-CQ.m3u8
 CCTV4,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_CCTV-4-CQ/G_CCTV-4-CQ.m3u8
 CCTV5,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_CCTV-5-CQ/G_CCTV-5-CQ.m3u8
 CCTV5+,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ.m3u8
@@ -98,9 +100,9 @@ CCTV17,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8
 
 
 
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
@@ -111,9 +113,9 @@ CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212262
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
@@ -130,8 +132,8 @@ CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212261
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 
-CCTV2,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
-CCTV3,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
+CCTV-2 财经,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
+CCTV-3 综艺,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
 CCTV4,http://1.195.111.251:11190/tsfile/live/0004_1.m3u8
 CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
 CCTV6,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
@@ -145,11 +147,11 @@ CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
 CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 
-CCTV1,http://221.213.43.82:8888/newlive/live/hls/2/live.m3u8
-CCTV2,http://221.213.43.82:8888/newlive/live/hls/3/live.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
-CCTV2,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV3,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
+CCTV-1 综合,http://221.213.43.82:8888/newlive/live/hls/2/live.m3u8
+CCTV-2 财经,http://221.213.43.82:8888/newlive/live/hls/3/live.m3u8
+CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
+CCTV-2 财经,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV-3 综艺,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
 CCTV4,http://221.213.43.82:8888/newlive/live/hls/5/live.m3u8
 CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
@@ -189,12 +191,12 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV17,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 
-CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV-2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV-3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV-1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV-2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV-3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=00000250001B50800001B401420BC069&userToke&usergroup
@@ -214,9 +216,9 @@ CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
@@ -233,9 +235,9 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-CCTV1,http://222.223.119.21:8888/newlive/live/hls/2/live.m3u8
-CCTV2,http://222.223.119.21:8888/newlive/live/hls/3/live.m3u8
-CCTV3,http://222.223.119.21:8888/newlive/live/hls/4/live.m3u8
+CCTV-1 综合,http://222.223.119.21:8888/newlive/live/hls/2/live.m3u8
+CCTV-2 财经,http://222.223.119.21:8888/newlive/live/hls/3/live.m3u8
+CCTV-3 综艺,http://222.223.119.21:8888/newlive/live/hls/4/live.m3u8
 CCTV4,http://222.223.119.21:8888/newlive/live/hls/5/live.m3u8
 CCTV5,http://222.223.119.21:8888/newlive/live/hls/6/live.m3u8
 CCTV5+,http://222.223.119.21:8888/newlive/live/hls/7/live.m3u8
@@ -4561,7 +4563,6 @@ Wesley黑骑士的直播间,http://mmitv.top/test/douyu.php?id=11665049&u=547269
 出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
 Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
-
 
 
 
