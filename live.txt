@@ -449,6 +449,21 @@ CGTR教育频道（回放）,https://vod.gdtv.cn/m3u8/202309/169519925167.m3u8
 
 
 安徽综合,#genre#
+安徽公共,http://mmitv.top/test/ahtv.php?id=16
+安徽公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
+安徽农业科教,http://mmitv.top/test/ahtv.php?id=14
+安徽国际,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
+安徽导视,https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
+安徽影视,http://mmitv.top/test/ahtv.php?id=13
+安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
+安徽经济生活,http://mmitv.top/test/ahtv.php?id=12
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd%EF%BC%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%96%E7%95%8C%E6%9D%AF
+安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
+安徽体育,http://skycw.vicp.net:4022/udp/238.1.79.41:4440
+安徽体育,http://321257.cn:8888/udp/238.1.79.41:4440
 宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
 芜湖新闻综合,http://live1.wuhubtv.com/channel1/sd/live.m3u8?zanhd
 芜湖公共,http://live1.wuhubtv.com/channel3/sd/live.m3u8?zanhd
