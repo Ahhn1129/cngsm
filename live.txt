@@ -54,8 +54,8 @@ CCTV-8 电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/22
 CCTV-8 电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-8 电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9 纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-9 记录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV-9 记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV-10 科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-13 新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
@@ -70,7 +70,7 @@ CCTV-5 体育,http://183.196.25.171:808/hls/78/index.m3u8
 CCTV-6 电影,http://183.196.25.171:808/hls/76/index.m3u8
 CCTV-7 国防军事,http://183.196.25.171:808/hls/7/index.m3u8
 CCTV-8 电视剧,http://183.196.25.171:808/hls/77/index.m3u8
-CCTV-9 纪录,http://183.196.25.171:808/hls/9/index.m3u8
+CCTV-9 记录,http://183.196.25.171:808/hls/9/index.m3u8
 CCTV-10 科教,http://183.196.25.171:808/hls/10/index.m3u8
 CCTV-11 戏曲,http://183.196.25.171:808/hls/11/index.m3u8
 CCTV-12 社会与法,http://183.196.25.171:808/hls/12/index.m3u8
@@ -107,7 +107,7 @@ CCTV-5+ 体育赛事,http://china.733240.com/cqyx.php?id=cctv5SportHD
 CCTV-6 电影,http://china.733240.com/cqyx.php?id=cctv6HD
 CCTV-7 国防军事,http://china.733240.com/cqyx.php?id=cctv7HD
 CCTV-8 电视剧,http://china.733240.com/cqyx.php?id=cctv8HD
-CCTV-9 纪录,http://china.733240.com/cqyx.php?id=cctv9HD
+CCTV-9 记录,http://china.733240.com/cqyx.php?id=cctv9HD
 CCTV-10 科教,http://china.733240.com/cqyx.php?id=cctv10HD
 CCTV-11 戏曲,http://china.733240.com/cqyx.php?id=cctv11HD
 CCTV-12 社会与法,http://china.733240.com/cqyx.php?id=cctv12HD
