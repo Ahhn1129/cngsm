@@ -16,6 +16,24 @@ CCTV-14 少儿,http://183.196.25.171:808/hls/14/index.m3u8
 CCTV-15 音乐,http://183.196.25.171:808/hls/15/index.m3u8
 CCTV-17 农业农村,http://183.196.25.171:808/hls/93/index.m3u8
 
+CCTV-1 综合,https://cdn2.jdshipin.com/api/bst2.php?id=cctv1hd8m/8000000
+CCTV-2 财经,https://cdn2.jdshipin.com/api/bst2.php?id=cctv2hd8m/8000000
+CCTV-3 综艺,https://cdn2.jdshipin.com/api/bst2.php?id=cctv38m/8000000
+CCTV-4 中文国际,https://cdn2.jdshipin.com/api/bst2.php?id=cctv4hd8m/8000000
+CCTV-5 体育,https://cdn2.jdshipin.com/api/bst2.php?id=cctv58m/8000000
+CCTV-5+赛事,https://cdn2.jdshipin.com/api/bst2.php?id=cctv5phd8m/8000000
+CCTV-6 电影,https://cdn2.jdshipin.com/api/bst2.php?id=cctv6hd8m/8000000
+CCTV-7 国防军事,https://cdn2.jdshipin.com/api/bst2.php?id=cctv7hd8m/8000000
+CCTV-8 电视剧,https://cdn2.jdshipin.com/api/bst2.php?id=cctv8hd8m/8000000
+CCTV-9 记录,https://cdn2.jdshipin.com/api/bst2.php?id=cctv9hd8m/8000000
+CCTV-10 科教,https://cdn2.jdshipin.com/api/bst2.php?id=cctv10hd8m/8000000
+CCTV-11 戏曲,https://cdn2.jdshipin.com/api/bst2.php?id=cctv11hd8m/8000000
+CCTV-12 社会与法,https://cdn2.jdshipin.com/api/bst2.php?id=cctv12hd8m/8000000
+CCTV-13 新闻,https://cdn2.jdshipin.com/api/bst2.php?id=cctv13xwhd8m/8000000
+CCTV-14 少儿,https://cdn2.jdshipin.com/api/bst2.php?id=cctvsehd8m/8000000
+CCTV-15 音乐,https://cdn2.jdshipin.com/api/bst2.php?id=cctv15hd8m/8000000
+CCTV-16 社会与法,,https://cdn2.jdshipin.com/api/bst2.php?id=cctv16hd8m/8000000
+CCTV-17 农业农村,https://cdn2.jdshipin.com/api/bst2.php?id=cctv17hd8m/8000000
 
 CCTV-1 综合,http://china.733240.com/cqyx.php?id=cctv1HD
 CCTV-2 财经,http://china.733240.com/cqyx.php?id=cctv2HD
@@ -33,8 +51,9 @@ CCTV-12 社会与法,http://china.733240.com/cqyx.php?id=cctv12HD
 CCTV-13 新闻,http://china.733240.com/cqyx.php?id=CCTVNewsHD
 CCTV-14 少儿,http://china.733240.com/cqyx.php?id=cctvseHD
 CCTV-15 音乐,http://china.733240.com/cqyx.php?id=cctv15HD
-CCTV-16 奥林匹克,http://china.733240.com/cqyx.php?id=cctv16HD
+CCTV-16 社会与法,,http://china.733240.com/cqyx.php?id=cctv16HD
 CCTV-17 农业农村,http://china.733240.com/cqyx.php?id=cctv17HD
+
 CCTV-4K 超高清,http://china.733240.com/cqyx.php?id=CCTV4K
 CCTV-16 4K,http://china.733240.com/cqyx.php?id=CCTV16_4k
 CCTV风云剧场,http://china.733240.com/cqyx.php?id=shandongHD
