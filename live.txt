@@ -16,7 +16,7 @@ CCTV-12 社会与法,https://cdn2.jdshipin.com/api/bst2.php?id=cctv12hd8m/800000
 CCTV-13 新闻,https://cdn2.jdshipin.com/api/bst2.php?id=cctv13xwhd8m/8000000
 CCTV-14 少儿,https://cdn2.jdshipin.com/api/bst2.php?id=cctvsehd8m/8000000
 CCTV-15 音乐,https://cdn2.jdshipin.com/api/bst2.php?id=cctv15hd8m/8000000
-CCTV-16 奥林匹克,,https://cdn2.jdshipin.com/api/bst2.php?id=cctv16hd8m/8000000
+CCTV-16 奥林匹克,https://cdn2.jdshipin.com/api/bst2.php?id=cctv16hd8m/8000000
 CCTV-17 农业农村,https://cdn2.jdshipin.com/api/bst2.php?id=cctv17hd8m/8000000
 
 CCTV-1 综合,http://183.196.25.171:808/hls/1/index.m3u8
@@ -53,7 +53,7 @@ CCTV-12 社会与法,http://china.733240.com/cqyx.php?id=cctv12HD
 CCTV-13 新闻,http://china.733240.com/cqyx.php?id=CCTVNewsHD
 CCTV-14 少儿,http://china.733240.com/cqyx.php?id=cctvseHD
 CCTV-15 音乐,http://china.733240.com/cqyx.php?id=cctv15HD
-CCTV-16 奥林匹克,,http://china.733240.com/cqyx.php?id=cctv16HD
+CCTV-16 奥林匹克,http://china.733240.com/cqyx.php?id=cctv16HD
 CCTV-17 农业农村,http://china.733240.com/cqyx.php?id=cctv17HD
 
 CCTV-4K 超高清,http://china.733240.com/cqyx.php?id=CCTV4K
