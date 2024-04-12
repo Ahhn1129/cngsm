@@ -1301,7 +1301,7 @@ CCTV6,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/32
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw977931995_508449502/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1705111584&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw1035822826_525877085/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1705111642&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 
-其他频道,#genre#
+其他,#genre#
 
 电视指南,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 风云足球,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
@@ -1378,7 +1378,7 @@ CHC动作电影,http://39.134.18.193:80/dbiptv.sn.chinamobile.com/PLTV/88888890/
 咪咕视频,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226398/index.m3u8$8.0M_1080
 咪咕视频,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8$8.0M_1080
 
-少儿频道,#genre#
+少儿,#genre#
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
