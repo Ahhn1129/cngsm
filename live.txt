@@ -1,6 +1,6 @@
 央视,#genre#
 
-CCTV1 ,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV1 综合 ,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2 财经,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3 综艺,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV4 中文国际,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
@@ -19,7 +19,7 @@ CCTV15 音乐,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/22
 CCTV16 奥林匹克,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17 农业农村,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
-CCTV1 ,http://39.134.18.193:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV1 综合 ,http://39.134.18.193:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2 财经,http://39.134.18.193:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3 综艺,http://39.134.18.193:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV4 中文国际,http://39.134.18.193:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
@@ -38,9 +38,9 @@ CCTV15 音乐,http://39.134.18.193:80/dbiptv.sn.chinamobile.com/PLTV/88888890/22
 CCTV16 奥林匹克,http://39.134.18.193:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17 农业农村,http://39.134.18.193:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
-CCTV1 ,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$5.5M_1080
-CCTV1 ,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8$4.0M_1080
-CCTV1 ,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226514/index.m3u8$1.6M_720
+CCTV1 综合 ,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$5.5M_1080
+CCTV1 综合 ,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8$4.0M_1080
+CCTV1 综合 ,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226514/index.m3u8$1.6M_720
 CCTV2 财经,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8$5.5M_1080
 CCTV2 财经,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$1.6M_720
 CCTV3 综艺,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$4.0M_1080
@@ -76,7 +76,7 @@ CGTN-俄语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226543/index.
 CGTN-西班牙语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226431/index.m3u8$4.0M_576
 CGTN-阿拉伯语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226517/index.m3u8$4.0M_576
 
-CCTV1 ,http://8.134.211.236:13556/china/cctv.php?id=cctv1
+CCTV1 综合 ,http://8.134.211.236:13556/china/cctv.php?id=cctv1
 CCTV2 财经,http://8.134.211.236:13556/china/cctv.php?id=cctv2
 CCTV3 综艺,http://8.134.211.236:13556/china/cctv.php?id=cctv3
 CCTV4 中文国际,http://8.134.211.236:13556/china/cctv.php?id=cctv4
@@ -95,7 +95,7 @@ CCTV15 音乐,http://8.134.211.236:13556/china/cctv.php?id=cctv15
 CCTV16 奥林匹克,http://8.134.211.236:13556/china/cctv.php?id=cctv16
 CCTV17 农业农村,http://8.134.211.236:13556/china/cctv.php?id=cctv17
 
-CCTV1 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1 综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
@@ -114,7 +114,7 @@ CCTV15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/inde
 CCTV16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-CCTV1 ,https://cdn2.jdshipin.com/api/bst2.php?id=cctv1hd8m/8000000
+CCTV1 综合 ,https://cdn2.jdshipin.com/api/bst2.php?id=cctv1hd8m/8000000
 CCTV2 财经,https://cdn2.jdshipin.com/api/bst2.php?id=cctv2hd8m/8000000
 CCTV3 综艺,https://cdn2.jdshipin.com/api/bst2.php?id=cctv38m/8000000
 CCTV4 中文国际,https://cdn2.jdshipin.com/api/bst2.php?id=cctv4hd8m/8000000
@@ -133,7 +133,7 @@ CCTV15 音乐,https://cdn2.jdshipin.com/api/bst2.php?id=cctv15hd8m/8000000
 CCTV16 奥林匹克,https://cdn2.jdshipin.com/api/bst2.php?id=cctv16hd8m/8000000
 CCTV17 农业农村,https://cdn2.jdshipin.com/api/bst2.php?id=cctv17hd8m/8000000
 
-CCTV1 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV1 综合 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -157,7 +157,7 @@ CCTV13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/inde
 CCTV15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 
-CCTV1 ,http://183.196.25.171:808/hls/1/index.m3u8
+CCTV1 综合 ,http://183.196.25.171:808/hls/1/index.m3u8
 CCTV2 财经,http://183.196.25.171:808/hls/2/index.m3u8
 CCTV3 综艺,http://183.196.25.171:808/hls/75/index.m3u8
 CCTV4 中文国际,http://183.196.25.171:808/hls/4/index.m3u8
@@ -174,7 +174,7 @@ CCTV14 少儿,http://183.196.25.171:808/hls/14/index.m3u8
 CCTV15 音乐,http://183.196.25.171:808/hls/15/index.m3u8
 CCTV17 农业农村,http://183.196.25.171:808/hls/93/index.m3u8
 
-CCTV1 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV1 综合 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 CCTV4 中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
