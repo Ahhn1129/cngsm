@@ -36,8 +36,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/main/jp.js"
         },
         {
             "key": "小点",
@@ -360,153 +360,8 @@
             ]
         },
         {
-            "key": "haiwaikan",
-            "name": "海外看(墙外)",
-            "type": 1,
-            "api": "https://haiwaikan.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "日本动漫",
-                "国产动漫",
-                "欧美动漫",
-                "国产剧",
-                "韩剧",
-                "日剧",
-                "台剧",
-                "泰剧",
-                "港剧",
-                "欧美剧",
-                "动画电影",
-                "韩国综艺",
-                "国产综艺",
-                "日本综艺",
-                "欧美综艺",
-                "冒险片",
-                "剧情片",
-                "动作片",
-                "同性片",
-                "喜剧片",
-                "奇幻片",
-                "恐怖片",
-                "悬疑片",
-                "惊悚片",
-                "战争片",
-                "歌舞片",
-                "灾难片",
-                "爱情片",
-                "犯罪片",
-                "科幻片",
-                "纪录片",
-                "经典片"
-            ]
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "泥视频(墙外)",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "YiSo",
-            "name": "易搜（阿里限速啦不好用了）",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "PanSou",
-            "name": "盘搜（阿里限速啦不好用了）",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "UpYun",
-            "name": "Up搜（阿里限速啦不好用了）",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "PanSearch",
-            "name": "盘Se（阿里限速啦不好用了）",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "push_agent",
-            "name": "手机┃推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "cntv",
-            "name": "央视[cat]",
-            "type": 3,
-            "api": "./cat/cntv_open.js"
-        },
-        {
-            "key": "bookan_book_open",
-            "name": "Bookan[cat]",
-            "type": 3,
-            "api": "./cat/MyCatBookan.js"
-        },
-        {
-            "key": "boosj_open",
-            "name": "童趣[cat]",
-            "type": 3,
-            "api": "./cat/boosj_open.js"
-        },
-        {
-            "key": "tuxiaobei_open",
-            "name": "兔小贝[cat]",
-            "type": 3,
-            "api": "./cat/tuxiaobei_open.js"
-        },
-        {
-            "key": "ubestkid_open",
-            "name": "贝乐虎[cat]",
-            "type": 3,
-            "api": "./cat/ubestkid_open.js"
-        },
-        {
             "key": "Bili",
-            "name": "Bili",
+            "name": "BiliBili",
             "type": 3,
             "api": "csp_Bili",
             "style": {
@@ -516,7 +371,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://xhdwc.tk/json/bilibili.json"
+            "ext": "./json/chuqiuyu.json"
         },
         {
             "key": "课堂教育",
@@ -526,7 +381,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://xhdwc.tk/json/xx1.json"
+            "ext": "./json/名师课堂.json"
         },
         {
             "key": "少儿教育",
@@ -536,7 +391,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://xhdwc.tk/json/xx2.json"
+            "ext": "./json/少儿教育.json"
         },
         {
             "key": "小学教育",
@@ -546,7 +401,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://xhdwc.tk/json/xx3.json"
+            "ext": "./json/小学课堂.json"
         },
         {
             "key": "初中教育",
@@ -556,7 +411,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://xhdwc.tk/json/xx4.json"
+            "ext": "./json/初中课堂.json"
         },
         {
             "key": "高中教育",
@@ -566,7 +421,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://xhdwc.tk/json/xx5.json"
+            "ext": "./json/高中课堂.json"
         }
     ],
     "doh": [
