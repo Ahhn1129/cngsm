@@ -1,10 +1,10 @@
 {
-        "spider": "https://raw.kkgithub.com/Ahhn1129/cngsm/master/cc.jar;md5;gd5ic01b6d4922692401eac6018178d033d06",
+        "spider": "./cc.jar;md5;gd5ic01b6d4922692401eac6018178d033d06",
     "lives": [
         {
             "name": "live",
             "type": 0,
-            "url": "https://raw.kkgithub.com/Ahhn1129/cngsm/master/live.txt",
+            "url": "./live.json",
             "playerType": 2
         }
     ],
@@ -36,8 +36,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/jp.js"
+            "api": "./JavaScript/drpy2.min.js",
+            "ext": "./JavaScript/jp.js"
         },
         {
             "key": "小点",
