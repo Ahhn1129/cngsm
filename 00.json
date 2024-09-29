@@ -1,5 +1,5 @@
 {
-   "spider": "./jar/fan.txt;md5;3d161697458ecbcd2651a749db761ba1",
+   "spider": "./jar/fan.jar;md5;3d161697458ecbcd2651a749db761ba1",
     "lives": [
         {
             "name": "live",
