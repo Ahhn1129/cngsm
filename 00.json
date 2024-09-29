@@ -233,7 +233,14 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
+       {
+            "key":"drpy_js_南瓜影视",
+            "name":" 南瓜影视",
+            "type":3,
+            "api":"./JavaScript/drpy2.min.js",
+            "ext":"./js/南瓜影视.js"
+            },
+       {
             "key": "Auete",
             "name": "Auete",
             "type": 3,
