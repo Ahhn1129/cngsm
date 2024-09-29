@@ -1,5 +1,5 @@
 {
-   "spider": "./jar/fan.jar;md5;3d161697458ecbcd2651a749db761ba1",
+    "spider": "./jar/fan.jar;md5;3d161697458ecbcd2651a749db761ba1",
     "lives": [
         {
             "name": "live",
@@ -8,7 +8,7 @@
             "playerType": 2
         }
     ],
-    "sites": [
+   "sites": [
         {
             "key": "豆瓣",
             "name": "豆瓣推荐",
@@ -93,14 +93,14 @@
         },
         {
             "key": "玩偶",
-            "name": "玩偶哥哥（阿里限速啦）",
+            "name": "玩偶哥哥",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "Cloud-drive": "./tvfan.txt",
                 "from": "4k|auto",
                 "siteUrl": "https://www.wogg.net/",
                 "danMu": "弹"
@@ -222,27 +222,20 @@
             "playerType": 1,
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },
-        {
-            "key": "南瓜",
-            "name": "南瓜",
-            "type": 3,
-            "api": "csp_NanGua",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-       {
-            "key":"drpy_js_南瓜影视",
-            "name":" 南瓜影视",
+         {
+            "key":"南瓜",
+            "name":"南瓜",
             "type":3,
-            "api":"./JavaScript/drpy2.min.js",
-            "ext":"./js/南瓜影视.js"
+            "api":"csp_NanGua",
+            "timeout":15,
+            "playerType":2,
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1
             },
-       {
+        {
             "key": "Auete",
-            "name": "Auete",
+            "name": "奥特",
             "type": 3,
             "api": "csp_Auete",
             "timeout": 15,
@@ -251,7 +244,41 @@
             "changeable": 1,
             "ext": "https://auete.pro/"
         },
+         {
+            "key":"drpy_js_南瓜影视",
+            "name":" 南瓜影视",
+            "type":3,
+            "api":"./JavaScript/drpy2.min.js",
+            "ext":"./js/南瓜影视.js"
+            },
+         {
+            "key":"drpy_js_百忙无果",
+            "name":"芒果",
+            "type":3,
+            "api":"./JavaScript/drpy2.min.js",
+            "ext":"./js/mgtv.js"
+            },
         {
+            "key":"YGP",
+            "name":"叨观荐影",
+            "type":3,
+            "api":"csp_YGP",
+            "searchable":0,
+            "quickSearch":0,
+            "changeable":0
+            },
+        {
+            "key":"欢视",
+            "name":"欢视",
+            "type":3,
+            "api":"csp_AppTT",
+            "playerType":2,
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "ext":"AO7TcBkd8IPB+BwH4Qma+opv"
+            },
+         {
             "key": "新6V",
             "name": "新6V磁力",
             "type": 3,
@@ -366,7 +393,96 @@
                 "伦理片"
             ]
         },
+     {
+           "key": "39影视",
+           "name": "39影视",
+           "type": 1,
+           "api": "https://www.39kan.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "国产剧",
+                "港台剧",
+                "欧美剧",
+                "日韩剧",
+                "日本剧",
+                "剧情片",
+                "科幻片",
+                "动作片",
+                "恐怖片",                
+                "爱情片",
+                "喜剧片",
+                "战争片",
+                "综艺",                
+                "动漫"
+            ]
+        },
+         {
+            "key": "卧龙资源",
+            "name": "卧龙资源",
+            "type": 1,
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 0,
+            "quickSearch": 0,
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "泰国剧",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "动漫",
+                "体育",
+                "剧情片",
+                "动作片",
+                "爱情片",
+                "喜剧片",
+                "伦理片"
+            ]
+        },
    {
+       "key":"非凡资源",
+       "name":"非凡资源",
+       "type":1,
+       "api":"http://ffzy.tv/api.php/provide/vod/",
+       "playUrl": "",
+       "searchable":1,
+       "quickSearch": 1,
+       "categories":[
+       "动作片",
+       "喜剧片",
+       "爱情片",
+       "科幻片",
+       "恐怖片",
+       "剧情片",
+       "战争片",
+       "国产剧",
+       "香港剧",
+       "韩国剧",
+       "欧美剧",
+       "记录片",
+       "台湾剧",
+       "日本剧",
+       "海外剧",
+       "泰国剧",
+       "大陆综艺",
+       "港台综艺",
+       "日韩综艺",
+       "欧美综艺",
+       "国产动漫",
+       "日韩动漫",
+       "欧美动漫",
+       "港台动漫",
+       "海外动漫",
+       "伦理片",
+       "短剧"
+         ]
+     },   
+  {
        "key": "Qtv",
        "name": " 腾讯",
        "type": 3,
@@ -461,7 +577,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.kkgithub.com/Ahhn1129/cngsm/master/json/高中课堂.json"
+            "ext": "./json/高中课堂.json"
         }
     ],
     "doh": [
