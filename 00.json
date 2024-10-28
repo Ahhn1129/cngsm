@@ -1,5 +1,5 @@
-{
-    "spider": "./jar/fan.jar;md5;ce37642e140a829d57496a32d8fcc648",
+﻿{
+    "spider": "./jar/fan1.jar;md5;8851819289f80deae32319080028db3b",
     "lives": [
         {
             "name": "live",
@@ -19,16 +19,6 @@
             "filterable": 0
         },
         {
-            "key": "快看",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kkys",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "荐片",
             "name": "荐片",
             "type": 3,
@@ -38,16 +28,6 @@
             "playerType": "1",
             "api": "./JavaScript/drpy2.min.js",
             "ext": "./JavaScript/jp.js"
-        },
-        {
-            "key": "小点",
-            "name": "小点",
-            "type": 3,
-            "api": "csp_Appxdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
         },
         {
             "key": "糯米",
@@ -139,41 +119,10 @@
             "changeable": 1
         },
         {
-            "key": "煤球",
-            "name": "煤球",
-            "type": 3,
-            "api": "csp_Appmq",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "文采",
             "name": "文采",
             "type": 3,
             "api": "csp_Jpys",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "蛋蛋",
-            "name": "蛋蛋",
-            "type": 3,
-            "api": "csp_Cddys",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "专线",
-            "name": "专线",
-            "type": 3,
-            "api": "csp_Zx4k",
-            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -254,7 +203,7 @@
             "changeable": 1,
             "ext": "https://auete.cc/"
         },
-         {
+        {
             "key":"drpy_js_南瓜影视",
             "name":" 南瓜影视",
             "type":3,
@@ -315,6 +264,12 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+         {
+            "key": "暴风",
+            "name": "暴风",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod"
         },
         {
             "key": "IK",
