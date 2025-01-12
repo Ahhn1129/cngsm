@@ -1,5 +1,5 @@
-﻿{
-    "spider": "./jar/fan1.jar;md5;8851819289f80deae32319080028db3b",
+{
+    "spider": "./jar/cc_5.jar;md5;199d292d646c6d3b0d6a2b37eb30f05b",
     "lives": [
         {
             "name": "live",
@@ -17,28 +17,55 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
-        }
-      {    "key":"木星",
+        },
+         {
+            "key":"热播影视",
+            "name":"热播影视",
+            "type":3,
+            "api":"csp_AppRB",
+            "timeout":15,
+            "playerType":2,
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "jar": "./jar/xiaosa.jar"
+            },
+        {
+            "key": "客星",
+            "name": "客星",
+            "type": 3,
+            "api": "csp_Xdai",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "order_num": 0,
+            "playerType": 2,
+            "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
+            "jar": "./jar/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+            },    
+        {
+            "key":"木星",
             "name":"木星",
             "type":3,
             "api":"csp_AppSx",
-           "jar":"./jar/fan2.jar;md5;118bca13418f13c45c5c237ac93c2f07",
             "searchable":1,
             "quickSearch":1,
             "changeable":1,
-            "ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
-        },
-       {    
-            "key":"速播",
-            "name":"速播",
-            "type":3,
-            "api":"csp_AppSx",
-            "jar":"./jar/fan2.jar;md5;118bca13418f13c45c5c237ac93c2f07",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext":"FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytPprjXXepEhRI1g+FIGqkCgBFA="
-        },
+            "ext":"FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
+            }, 
+       {
+           "key":"皮皮虾",
+           "name":"皮皮虾",
+           "type":3,
+           "api":"csp_AppYsV2",
+           "searchable":1,
+           "quickSearch":1,
+           "filterable":1,
+           "changeable":1,
+           "playerType":2,
+           "jar":"./jar/xiaosa.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
+           "ext":"http://38.55.250.149:1314/api.php/app/"
+           },     
         {
             "key": "荐片",
             "name": "荐片",
@@ -50,6 +77,20 @@
             "api": "./JavaScript/drpy2.min.js",
             "ext": "./JavaScript/jp.js"
         },
+        {
+            "key":"drpy_js_TVB云播",
+            "name":"TVB云播",
+            "type":3,
+            "api":"./JavaScript/drpy2.min.js",
+            "ext":"./js/TVB云播.js"
+            },
+        {
+            "key":"闪雷",
+            "name":"闪雷",
+            "type":3,
+            "api":"./JavaScript/drpy2.min.js",
+            "ext":"./js/678.js"
+            },        
         {
             "key": "糯米",
             "name": "糯米",
@@ -131,14 +172,31 @@
             }
         },
         {
-            "key": "短剧",
-            "name": "短剧",
-            "type": 3,
-            "api": "csp_Djtt",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+            "key":"抠搜",
+            "name":"抠抠",
+            "type":3,
+            "api":"csp_KkSs",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":0,
+            "ext": {
+                "Cloud-drive":"tvfan/Cloud-drive.txt",
+                "from":"4k|auto"
+                }
+            },
+        {
+            "key":"UC",
+            "name":"优汐",
+            "type":3,
+            "api":"csp_UuSs",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":0,
+            "ext": {
+                "Cloud-drive":"tvfan/Cloud-drive.txt",
+                "from":"4k|auto"
+                }
+         },
         {
             "key": "文采",
             "name": "文采",
@@ -249,7 +307,7 @@
             "searchable":1,
             "quickSearch":1,
             "changeable":1,
-            "ext":"AO7TcBkd8IPB+BwH4Qma+opv"
+            "ext":"AO7TcBkd8I/B+Qsa7gqa+pU="
             },
          {
             "key": "新6V",
@@ -499,6 +557,7 @@
             "name": "BiliBili",
             "type": 3,
             "api": "csp_Bili",
+            "jar":"./jar/fan1.jar;md5;8851819289f80deae32319080028db3b",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -513,6 +572,7 @@
             "name": "课堂教育",
             "type": 3,
             "api": "csp_Bili",
+            "jar":"./jar/fan1.jar;md5;8851819289f80deae32319080028db3b",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
@@ -523,6 +583,7 @@
             "name": "少儿教育",
             "type": 3,
             "api": "csp_Bili",
+            "jar":"./jar/fan1.jar;md5;8851819289f80deae32319080028db3b",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
@@ -533,6 +594,7 @@
             "name": "小学教育",
             "type": 3,
             "api": "csp_Bili",
+            "jar":"./jar/fan1.jar;md5;8851819289f80deae32319080028db3b",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
@@ -543,6 +605,7 @@
             "name": "初中教育",
             "type": 3,
             "api": "csp_Bili",
+            "jar":"./jar/fan1.jar;md5;8851819289f80deae32319080028db3b",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
@@ -553,6 +616,7 @@
             "name": "高中教育",
             "type": 3,
             "api": "csp_Bili",
+            "jar":"./jar/fan1.jar;md5;8851819289f80deae32319080028db3b",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
